@@ -1,4 +1,4 @@
-### 안녕하다 👋
+### BUGGER
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)
 
 
