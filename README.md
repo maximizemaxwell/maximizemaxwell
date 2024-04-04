@@ -1,4 +1,4 @@
-### BUGGER
+### 404 not found:(
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&layout=compact)
 
