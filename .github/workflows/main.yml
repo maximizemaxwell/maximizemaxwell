@@ -17,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config maximizemaxwell github-actions
-          git config naturale@hufs.ac.kr github-actions@github.com
+          git config user.name mximizemaxwell
+          git config user.email naturale@hufs.ac.kr
           git add -A .
           git commit -m "generated"
           git push
