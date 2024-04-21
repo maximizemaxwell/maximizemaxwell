@@ -1,11 +1,11 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Maxwell)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello World!)
 
 
 
 ### Hello, 
-Only thing I can do is to write verbose, unworkable old-fashioned crazy codes.
+
 
 
 
@@ -22,21 +22,7 @@ Only thing I can do is to write verbose, unworkable old-fashioned crazy codes.
 
 
 
-###### [MY TISTORY BLOG](https://maximizemaxwell.com/)
 
-
-
-
-===========================================================
-
-
-
-
-### PLEASE don't believe this... 
-
-I'm super unfamilar with python and jupyter notebook,  
-C and Cpp are much better...  
-It's just because I didn't commit it  
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&layout=compact)
 
