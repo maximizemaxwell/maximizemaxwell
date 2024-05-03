@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text==^._.^=&fontSize=30" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\ᵐᵉᵒʷˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\ﾉᶠᵉᵉᵈᵐᵉˊˎˊˎˊˎ/ᐠ_ꞈ_ᐟ\\)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\ᵐᵉᵒʷˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\ﾉᶠᵉᵉᵈᵐᵉˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
 
   ---
 
