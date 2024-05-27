@@ -2,12 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text==^._.^=&fontSize=30" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\ᵐᵉᵒʷˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\ﾉᶠᵉᵉᵈᵐᵉˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\meowˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\ﾉreadmeˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
 
 </div>
 
   ---
-
+  
+  <div align="center">
+    
+  # I am using
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Arch linux-10A0CC?style=for-the-badge&logo=Arch linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Arch linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
+  
+  
+  
+  </div>
 </details>
 <br><br>
 <div align="center">
@@ -33,6 +44,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
+
+
 <!--
 **maximizemaxwell/maximizemaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
