@@ -13,7 +13,7 @@
   # I am using
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Arch linux-10A0CC?style=for-the-badge&logo=Arch linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Arch linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Kali linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
   
   
