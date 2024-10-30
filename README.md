@@ -18,6 +18,7 @@
     - ML, DL, NLP
   - Open source projects
 ## Contact Me
+- Language: en, ko
 - email: ewhk9887@gmail.com
 ---
 # /ᐠ-ⱉ-ᐟ\ Institutions
