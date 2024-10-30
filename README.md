@@ -17,6 +17,8 @@
   - AI
     - ML, DL, NLP
   - Open source projects
+## Contact Me
+- email: ewhk9887@gmail.com
 
   ---
   # Tools
