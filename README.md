@@ -38,13 +38,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 ---
-# Languages =^. .^=
+# /ᐠ-ⱉ-ᐟ\ Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> 
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
   ---
-# Linux Distributions ^._.^
+# /ᐠ-ⱉ-ᐟ\ Linux Distributions
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Arch linux-10A0CC?style=for-the-badge&logo=Arch linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Kali linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
