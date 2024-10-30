@@ -54,7 +54,7 @@
 </details>
 <br><br>
 
-# My Contributions
+# /ᐠ-ⱉ-ᐟ\ My Contributions
 <div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -64,10 +64,10 @@
   </div>
   
 ---
-<br><br>
   <div align="left">
-
-# Algorithms Problem Solving
+<br><br>
+    
+# /ᐠ-ⱉ-ᐟ\ Algorithms Problem Solving
    
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)
 
