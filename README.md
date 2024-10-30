@@ -23,7 +23,7 @@
 ---
 # /ᐠ-ⱉ-ᐟ\ Institutions
 
-  - Hankuk University of Foreign Studies *(~~calientacabezas~~)*
+  - Hankuk University of Foreign Studies *(~~Odio la escuela~~)*
   - Google ML Community Network
   - Knockon ELITE WHITE Hacker Boot Camp 3rd QnA mentor
 ---
