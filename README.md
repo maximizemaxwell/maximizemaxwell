@@ -20,8 +20,8 @@
 ## Contact Me
 - email: ewhk9887@gmail.com
 
-  ---
-  # Tools
+---
+# Tools
   
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"> 
 
