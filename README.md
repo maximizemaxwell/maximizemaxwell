@@ -35,7 +35,7 @@
 
   - Hankuk University of Foreign Languages *(~~calientacabezas~~)*
   - Google ML Community Network
-  - Knockon WHITE Hacker Boot Camp 3rd QnA mentor
+  - Knockon ELITE WHITE Hacker Boot Camp 3rd QnA mentor
   ---
     
   <div align="center">
