@@ -14,7 +14,7 @@
   - **Cybersecurity**
   - **Linux Kernel**
   - **Neovim, Vim**
-  - AI
+  - **AI**
     - ML, DL, NLP
   - **Open source projects**
     - Translation(EN->KO)
