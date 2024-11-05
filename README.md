@@ -16,7 +16,8 @@
   - **Neovim, Vim**
   - AI
     - ML, DL, NLP
-  - Open source projects
+  - **Open source projects**
+    - Translation(EN->KO)
 ## Contact Me
 - Language: en, ko
 - email: ewhk9887@gmail.com
