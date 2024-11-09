@@ -9,6 +9,52 @@
   ---
   
 # /ᐠ-ⱉ-ᐟ\ Hi, I am 
+```go
+// maximizemaxwell.go
+package main
+
+import (
+	"fmt"
+	"reflect"
+)
+
+type CurrentStatus struct {
+	Name            string
+	ProgrammingLang []string
+	Interests       []string
+	Tools           []string
+	OS              []string
+}
+
+func NewCurrentStatus() *CurrentStatus {
+	return &CurrentStatus{
+		Name:            "Max(E.EUN)",
+		ProgrammingLang: []string{"C", "Cpp", "GO", "Python", "Assembly"},
+		Interests:       []string{"Cybersecurity", "Linux Kernel", "NLP"},
+		Tools:           []string{"Neovim", "Vim", "Vscode", "JetBrains"},
+		OS:              []string{"Arch", "Ubuntu", "Kali"},
+	}
+}
+
+func PrintStatus(status *CurrentStatus) {
+	v := reflect.ValueOf(*status)
+	t := v.Type()
+
+	fmt.Println("Hi, I am", status.Name)
+	for i := 0; i < v.NumField(); i++ {
+		fieldName := t.Field(i).Name
+		if fieldName == "Name" {
+			continue 
+		}
+		fmt.Printf("%s: %v\n", fieldName, v.Field(i).Interface())
+	}
+}
+
+func main() {
+	status := NewCurrentStatus()
+	PrintStatus(status)
+}
+```
 
 ## Interested in
   - **Cybersecurity**
