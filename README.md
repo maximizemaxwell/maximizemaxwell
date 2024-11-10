@@ -27,7 +27,7 @@ type currentStatus struct {
 }
 
 func newCurrentStatus() *currentStatus {
-	return &CurrentStatus{
+	return &currentStatus{
 		Name:            "Max(E.EUN)",
 		ProgrammingLang: []string{"C", "Cpp", "GO", "Python", "Assembly"},
 		Interests:       []string{"Cybersecurity", "Linux Kernel", "NLP"},
