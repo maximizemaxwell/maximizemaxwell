@@ -18,7 +18,7 @@ import (
 	"reflect"
 )
 
-type CurrentStatus struct {
+type currentStatus struct {
 	Name            string
 	ProgrammingLang []string
 	Interests       []string
@@ -26,7 +26,7 @@ type CurrentStatus struct {
 	OS              []string
 }
 
-func NewCurrentStatus() *CurrentStatus {
+func newCurrentStatus() *currentStatus {
 	return &CurrentStatus{
 		Name:            "Max(E.EUN)",
 		ProgrammingLang: []string{"C", "Cpp", "GO", "Python", "Assembly"},
@@ -36,7 +36,7 @@ func NewCurrentStatus() *CurrentStatus {
 	}
 }
 
-func PrintStatus(status *CurrentStatus) {
+func printStatus(status *currentStatus) {
 	v := reflect.ValueOf(*status)
 	t := v.Type()
 
@@ -51,8 +51,8 @@ func PrintStatus(status *CurrentStatus) {
 }
 
 func main() {
-	status := NewCurrentStatus()
-	PrintStatus(status)
+	status := newCurrentStatus()
+	printStatus(status)
 }
 ```
 
