@@ -61,12 +61,15 @@ func main() {
   - **Linux Kernel**
   - **Neovim, Vim**
   - **AI**
-    - ML, DL, NLP
+    - `ML`, `DL`, `NLP`
+   
   - **Open source projects**
-    - Translation(EN->KO)
+    - Translation (`EN` <-> `KO`)
 ## Contact Me
-- Language: en, ko
-- email: ewhk9887@gmail.com
+- Language: `EN`, `KO`
+- Email:
+  - `personal`: ewhk9887@gmail.com
+  - `biz`: eunsoo@sliver-max.dev
 ---
 # /ᐠ-ⱉ-ᐟ\ Institutions
 
