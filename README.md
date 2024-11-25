@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text==^._.^=&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,10:7FFFD4,30:F0F8FF,75:00008B,100:000000&height=100&section=header&text==^._.^=&fontSize=30" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\meowˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\readmeˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=00FFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\meowˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\readmeˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,13 +70,40 @@ func main() {
 - Email:
   - `personal`: ewhk9887@gmail.com
   - `biz`: eunsoo@sliver-max.dev
+ 
 ---
+</details>
+<br><br>
+
+# /ᐠ-ⱉ-ᐟ\ My Contributions
+
+<!-- My profile -->
+<div align="center">
+	
+<table style="border-collapse: separate; border-spacing: 30px; border: 4px solid #00FFFF;">
+  <tr>
+    <td style="border: 2px solid #00FFFF; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&exclude_repo=DL-from-scratch&theme=tokyonight&layout=pie" alt="Top Langs">
+    </td>
+    <td style="border: 2px solid #00FFFF; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=maximizemaxwell&show_icons=true&theme=tokyonight" alt="GitHub stats">
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maximizemaxwell&theme=react-dark&bg_color=000000&hide_border=true&line=00FFFF&color=00FFFF" width=94%/>
+<br><br>
+  </div>
+  
+---
+
 # /ᐠ-ⱉ-ᐟ\ Institutions
 
-  - Hankuk University of Foreign Studies *(~~Odio la escuela~~)*
-  - Google ML Community Network
-  - Knockon ELITE WHITE Hacker Boot Camp 3rd QnA mentor
-  - Ubuntu Korean Translator Team
+  - `Hankuk University of Foreign Studies` *(~~Odio la escuela~~)*
+  - `Google ML Community Network`
+  - `Knockon ELITE WHITE Hacker Boot Camp 3rd QnA mentor`
+  - `Ubuntu Korean Translator Team`
 ---
 # /ᐠ-ⱉ-ᐟ\ Tools
   
@@ -102,21 +129,8 @@ func main() {
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
   
   ---
-  
-</details>
-<br><br>
 
-# /ᐠ-ⱉ-ᐟ\ My Contributions
-<div align="center">
-<!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=maximizemaxwell&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maximizemaxwell&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-<br><br>
-  </div>
-  
----
-  <div align="left">
+
 <br><br>
     
 # /ᐠ-ⱉ-ᐟ\ Algorithms Problem Solving
@@ -129,7 +143,7 @@ func main() {
    ---
 
    <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,10:7FFFD4,30:F0F8FF,75:00008B,100:000000&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
 
