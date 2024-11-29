@@ -139,7 +139,7 @@ func main() {
 | **Platform** | **Profile**                                                                                                                   |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Baekjoon** | <br><br>[![Baekjoon Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)<br><br>     |
-| **LeetCode** | <br><br>[![LeetCode Stats](https://leetcard.jacoblin.cool/maximizemaxwell?theme=radical&font=Damion&ext=heatmap)](https://leetcode.com/maximizemaxwell) <br><br> |
+| **LeetCode** | <br><br>[![LeetCode Stats](https://leetcard.jacoblin.cool/TId8S030y6?theme=radical&font=Damion&ext=heatmap)](https://leetcode.com/maximizemaxwell) <br><br> |
 </div>
 <br><br>
 
