@@ -134,9 +134,12 @@ func main() {
 <br><br>
     
 # /ᐠ-ⱉ-ᐟ\ Algorithms Problem Solving
-   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)
 
+
+| **Platform** | **Profile**                                                                                                                   |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Baekjoon** | <br><br>[![Baekjoon Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)<br><br>     |
+| **LeetCode** | <br><br>[![LeetCode Stats](https://leetcard.jacoblin.cool/maximizemaxwell?theme=unicorn&ext=activity)](https://leetcode.com/maximizemaxwell) <br><br> |
 </div>
 <br><br>
 
