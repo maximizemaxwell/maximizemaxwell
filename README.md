@@ -69,7 +69,6 @@ func main() {
 - Language: `EN`, `KO`
 - Email:
   - `personal`: ewhk9887@gmail.com
-  - `biz`: eunsoo@sliver-max.dev
  
 ---
 </details>
@@ -98,13 +97,6 @@ func main() {
   
 ---
 
-# /ᐠ-ⱉ-ᐟ\ Institutions
-
-  - `Hankuk University of Foreign Studies` *(~~Odio la escuela~~)*
-  - `Google ML Community Network`
-  - `Knockon ELITE WHITE Hacker Boot Camp 3rd QnA mentor`
-  - `Ubuntu Korean Translator Team`
----
 # /ᐠ-ⱉ-ᐟ\ Tools
   
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"> 
