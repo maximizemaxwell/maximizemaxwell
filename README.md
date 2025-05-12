@@ -97,46 +97,10 @@ func main() {
   
 ---
 
-# /ᐠ-ⱉ-ᐟ\ Tools
-  
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"> 
-
-![visualstudiocode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-<img src="https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=JetBrains&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=lightblue">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=lightgreen">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-
----
-# /ᐠ-ⱉ-ᐟ\ Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> 
-<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"> 
-
-  ---
-# /ᐠ-ⱉ-ᐟ\ Linux Distributions
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Arch linux-10A0CC?style=for-the-badge&logo=Arch linux&logoColor=black"> 
-<img src="https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=Kali linux&logoColor=black"> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
-  
-  ---
 
 
 <br><br>
     
-# /ᐠ-ⱉ-ᐟ\ Algorithms Problem Solving
-
-
-| **Platform** | **Profile**                                                                                                                   |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Baekjoon** | <br><br>[![Baekjoon Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewhk9887)](https://solved.ac/ewhk9887)<br><br>     |
-| **LeetCode** | <br><br>[![LeetCode Stats](https://leetcard.jacoblin.cool/TId8S030y6?theme=radical&font=Damion&ext=heatmap)](https://leetcode.com/TId8S030y6) <br><br> |
-</div>
-<br><br>
-
-   ---
-
    <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,10:7FFFD4,30:F0F8FF,75:00008B,100:000000&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
