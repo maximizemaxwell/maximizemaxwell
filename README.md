@@ -64,7 +64,7 @@ func main() {
     - `ML`, `DL`, `NLP`
    
   - **Open source contribution**
-    - Translation (`EN` <-> `KO`)
+    - Translation (`EN` <-> `KO`)  
 				- Codes(Mostly AI related libraries)
 ## Contact Me
 - Language: `EN`, `KO`
