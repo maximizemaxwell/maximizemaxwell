@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,10:7FFFD4,30:F0F8FF,75:00008B,100:000000&height=100&section=header&text==^._.^=&fontSize=30" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=00FFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\meowˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\readmeˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=00FFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=/ᐠ._.ᐟ\meowˎˊˎˊˎˊ/ᐠ-ⱉ-ᐟ\vvelcomeˊˎˊˎˊˎ/ᐠ._.ᐟ\\)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,9 +29,9 @@ type currentStatus struct {
 func newCurrentStatus() *currentStatus {
 	return &currentStatus{
 		Name:            "Max(E.EUN)",
-		ProgrammingLang: []string{"C", "Cpp", "GO", "Python", "Assembly"},
-		Interests:       []string{"Cybersecurity", "Linux Kernel", "NLP"},
-		Tools:           []string{"Neovim", "Vim", "Vscode", "JetBrains"},
+		ProgrammingLang: []string{"C", "Cpp", "Rust", "GO", "Python", "Assembly"},
+		Interests:       []string{"Cybersecurity", "Linux Kernel", "Optimization"},
+		Tools:           []string{"Neovim", "Vim"},
 		OS:              []string{"Arch", "Ubuntu", "Kali"},
 	}
 }
@@ -63,8 +63,9 @@ func main() {
   - **AI**
     - `ML`, `DL`, `NLP`
    
-  - **Open source projects**
+  - **Open source contribution**
     - Translation (`EN` <-> `KO`)
+				- Codes(Mostly AI related libraries)
 ## Contact Me
 - Language: `EN`, `KO`
 - Email:
