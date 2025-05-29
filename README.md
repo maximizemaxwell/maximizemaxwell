@@ -55,27 +55,7 @@ func main() {
 	printStatus(status)
 }
 ```
-
-## Interested in
-  - **Cybersecurity**
-  - **Linux Kernel**
-  - **Neovim, Vim**
-  - **AI**
-    - `ML`, `DL`, `NLP`
-   
-  - **Open source contribution**
-    - Mostly AI related libraries
-## Contact Me
-- Language: `EN`, `KO`
-- Email:
-  - `personal`: ewhk9887@gmail.com
- 
----
-</details>
 <br><br>
-
-# /ᐠ-ⱉ-ᐟ\ My Contributions
-
 <!-- My profile -->
 <div align="center">
 	
