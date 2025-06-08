@@ -62,7 +62,7 @@ func main() {
 <table style="border-collapse: separate; border-spacing: 30px; border: 4px solid #00FFFF;">
   <tr>
     <td style="border: 2px solid #00FFFF; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&exclude_repo=DL-from-scratch&theme=tokyonight&layout=pie" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizemaxwell&exclude_repo=DL-from-scratch,CATastrophe&theme=tokyonight&layout=pie" alt="Top Langs">
     </td>
     <td style="border: 2px solid #00FFFF; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=maximizemaxwell&show_icons=true&theme=tokyonight" alt="GitHub stats">
